@@ -1,0 +1,11 @@
+Package: ADAPTSdata
+Type: Package
+Title: Data for the ADAPTS package
+Version: 0.1.4
+Author: Samuel A Danziger
+Maintainer: Samuel A Danziger <sam.danziger@gmail.com>
+Copyright: Celgene Corporation
+Description: Data for the ADAPTS vignette
+License: MIT  + file LICENSE
+Encoding: UTF-8
+LazyData: true
